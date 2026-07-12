@@ -9,6 +9,14 @@ El objetivo es analizar cómo distintas técnicas de recomendación producen res
 
 ---
 
+# archivo credits
+
+https://storage.googleapis.com/kaggle-data-sets/3405/6663/compressed/credits.csv.zip (189 mb, no se puede respaldar en repositorio)
+
+
+
+---
+
 ## Tecnologías utilizadas
 
 - Python 3
